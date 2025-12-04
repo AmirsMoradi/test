@@ -1,0 +1,12 @@
+# === Core GPU stack ===
+numpy==1.26.4
+onnxruntime-gpu==1.23.2        # Stable build, works with CUDA 12.x–13.0
+insightface==0.7.3
+opencv-python==4.10.0.84
+mediapipe==0.10.18
+pillow==10.3.0
+scipy==1.13.0
+
+# === Utilities ===
+tqdm==4.66.4
+sqlite-utils==3.36
